@@ -1,0 +1,8 @@
+https://nathanj.github.io/gitguide/tour.html
+
+trigger jenkins job with commit to Git: http://www.andyfrench.info/2015/03/automatically-triggering-jenkins-build.html
+
+End-to-end understanding
+https://matthew-brett.github.io/pydagogue/git_gui_windows.html
+
+
